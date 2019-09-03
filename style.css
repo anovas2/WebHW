@@ -1,0 +1,53 @@
+@media (max-width: 768px){
+.col-md-6 {
+    max-width: 100%;
+}
+
+.container {
+    max-width: 100%px;
+}
+.col-md-8 {
+    max-width: 100%;
+}
+
+}
+
+@media (max-width: 1200px){
+.col-md-6 {
+    max-width: 100%;
+}
+.container {
+    max-width: 100%;
+}
+.col-md-8 {
+    max-width: 100%;
+}
+
+	
+}
+
+@media (min-width: 1200px){
+
+.col-md-4 {
+    max-width: 100%;
+}
+	
+}
+
+
+.navbar-brand {
+  font-size: 35px;
+  bac
+}
+.small-font {
+  font-size: 10px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+.navbar {
+    background-color: #000000e0;
+}
+
